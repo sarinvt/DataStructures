@@ -1,0 +1,14 @@
+﻿ProblemL
+if there are two same consecutive letters, delete one of them.
+
+Input:
+The first line contains an integer T, denoting the number of test cases.
+Each test case consists of a string S, which consists of only lower case letters.
+
+Output:
+For each test case, print the answer to the given problem.
+
+Constraints:
+1 <= T <= 10
+1 <= |S| <= 30
+

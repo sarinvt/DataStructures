@@ -6,7 +6,8 @@ namespace DataStructures
     {
         static void Main(string[] args)
         {
-            IProblem problem = new StringReverse();
+            //IProblem problem = new StringReverse();
+            IProblem problem = new RemoveCosecutiveLetters();
             problem.Solve();
         }
     }
