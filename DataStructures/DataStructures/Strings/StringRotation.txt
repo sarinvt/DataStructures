@@ -1,0 +1,14 @@
+﻿Problem: Given two string s1 and s2 how will you check if s1 is a rotated version of s2 ?
+
+If s1 = “sarinvt” then the following are some of its rotated versions:
+
+“nvtsari”
+“invtsar”
+
+Input:
+First line contain the input base string - s1
+The second line contains an integer T, denoting the number of test cases.
+Each test case contains a string S, comprising of only lower case letters.
+
+Output:
+Print True/False for each test case
