@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arrays\MissingNumber.cs" />
+    <Compile Include="Arrays\MissingNumbers.cs" />
     <Compile Include="IProblem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -52,13 +54,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Arrays\MissingNumber.txt" />
+    <Content Include="Arrays\MissingNumbers.txt" />
     <Content Include="Strings\RemoveCosecutiveLetters.txt" />
     <Content Include="Strings\StringReverse.txt" />
     <Content Include="Strings\StringRotation.txt" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Arrays\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

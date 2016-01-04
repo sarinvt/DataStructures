@@ -1,0 +1,7 @@
+﻿Find the Missing number from an integer array of N. (where array will contain cumbers 1 to N - no repeate).
+
+Input:
+first line contains, N -> array size (if 10, array will be 1 to 10.)
+
+Output:
+print the one missing number.

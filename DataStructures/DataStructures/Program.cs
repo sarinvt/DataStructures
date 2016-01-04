@@ -1,4 +1,5 @@
-﻿using DataStructures.Strings;
+﻿using DataStructures.Arrays;
+using DataStructures.Strings;
 
 namespace DataStructures
 {
@@ -8,7 +9,9 @@ namespace DataStructures
         {
             //IProblem problem = new StringReverse();
             //IProblem problem = new RemoveCosecutiveLetters();
-            IProblem problem = new StringRotation();
+            //IProblem problem = new StringRotation();
+            //IProblem problem = new MissingNumber();
+            IProblem problem = new MissingNumbers();
             problem.Solve();
         }
     }
