@@ -49,6 +49,7 @@
     <Compile Include="Strings\RemoveCosecutiveLetters.cs" />
     <Compile Include="Strings\StringReverse.cs" />
     <Compile Include="Strings\StringRotation.cs" />
+    <Compile Include="Strings\ValidParentheses.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -59,6 +60,7 @@
     <Content Include="Strings\RemoveCosecutiveLetters.txt" />
     <Content Include="Strings\StringReverse.txt" />
     <Content Include="Strings\StringRotation.txt" />
+    <Content Include="Strings\ValidParentheses.txt" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

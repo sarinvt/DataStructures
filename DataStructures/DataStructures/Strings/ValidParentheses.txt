@@ -1,0 +1,7 @@
+﻿Problem: Given an integer n, Print all valid parentheses formation with the n.
+
+Input:
+integer n
+
+Output:
+Print all, valid parentheses
